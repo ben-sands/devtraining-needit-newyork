@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="my_mate_dave_is_a_barrel_of_laughs" label="My Mate Dave is a Barrel of Laughs" language="en" table="x_58872_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>my_mate_dave_is_a_barrel_of_laughs</element>
+            <help/>
+            <hint/>
+            <label>My Mate Dave is a Barrel of Laughs</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <plural>My Mate Dave is a Barrel of Laughs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2019-12-23 15:19:24</sys_created_on>
+            <sys_id>58fdd05fdbb50010a2f253184b9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My Mate Dave is a Barrel of Laughs</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_needit_my_mate_dave_is_a_barrel_of_laughs_en</sys_update_name>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2019-12-23 15:19:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
